@@ -1,4 +1,4 @@
 [
-  ["name", "time"]
-  ["Rail Lab", "10pm"]
+  ["name", "time", "Number of Students"]
+  ["Rail Lab", "10pm", 50]
 ]
